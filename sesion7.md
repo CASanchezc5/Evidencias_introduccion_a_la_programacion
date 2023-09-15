@@ -16,7 +16,7 @@ Requerimientos del proyecto:
 
 # Solución
 
-En esta sesion se creo un ´proyecto web, el cual se creo en el repositorio de GitHub y luego se hicieron cambion en en Git local. A continuacion envio el link del repositorio, donde se encuentran los respectivos commit y todo lo que se hizo a este repositorio, el repositorio tiene por nombre "proyectoSesion7"
+En esta sesión se creo un 'proyecto web', el cual se creo en el repositorio de GitHub y luego se hicieron cambion en en Git local. A continuacion envio link del repositorio,  el repositorio tiene por nombre "proyectoSesion7"
 
 link:
  https://casanchezc5.github.io/proyectoSesion7/
