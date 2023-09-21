@@ -41,7 +41,7 @@ Aplica los siguientes estilos usando seleccionadores descendientes:
 
 # Solución
 
-Asi queda la actividad realizada con su respectivo index.html y style.css
+Asi queda la actividad realizada con su respectivo index.html y style.css:
 
 
 **Index.html**
