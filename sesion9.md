@@ -169,8 +169,8 @@ Hice unos pequeños cambios en el código original en cuanto a estilo de border 
 4. **Border-radius:** esta propiedad se utiliza para establecer el radio de curvatura de las esquinas de un elemento con borde, permitiendo así crear esquinas redondeadas.
 
 5. Las unidades de medida que se pueden utilizar para las propiedades de espaciado son: 
--	Pixeles (px)
--	Porcentajes (%)
+- Pixeles (px)
+- Porcentajes (%)
 
 -	Unidades absolutas
      -	Centímetros (cm)
