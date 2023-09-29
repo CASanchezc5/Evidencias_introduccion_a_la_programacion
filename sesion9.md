@@ -171,11 +171,13 @@ Hice unos pequeños cambios en el código original en cuanto a estilo de border 
 5. Las unidades de medida que se pueden utilizar para las propiedades de espaciado son: 
 -	Pixeles (px)
 -	Porcentajes (%)
+
 -	Unidades absolutas
-    -	Centímetros (cm)
-    -	Milímetros (mm)
-    -	Pulgadas (in)
-    -	Puntos(pt)
+     -	Centímetros (cm)
+     -	Milímetros (mm)
+     -	Pulgadas (in)
+     -	Puntos(pt)
+
 -	Unidades relativas
     -	Em (em)
     -	Rem (rem)
