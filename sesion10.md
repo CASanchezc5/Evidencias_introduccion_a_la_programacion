@@ -99,7 +99,7 @@ Preguntas:
 ```
 
 ## Respuesta a las Preguntas
-- Diferencia entre position: absolute y position: relative:
+- Diferencia entre position: absolute y position:
 
 **position: absolute:** Cuando se establece position: absolute en un elemento (como .elemento-1 en este caso), este se posiciona en relación con su ancestro posicionado más cercano (un elemento con una posición distinta a static) o en relación con el documento si no hay ancestros posicionados. Las propiedades top, right, bottom y left se utilizan para especificar su ubicación en relación con su ancestro posicionado. El elemento no afecta al flujo normal del documento y se superpone a otros elementos.
 
@@ -116,7 +116,7 @@ La propiedad z-index se utiliza para controlar el orden de apilamiento de elemen
 La propiedad display se utiliza para controlar el tipo de caja que representa un elemento y cómo se comporta en el diseño de la página. En este ejemplo, .elemento-1 tiene display: flex;, lo que convierte a este elemento en un contenedor flexible que afectará a cómo se colocan sus hijos dentro de él. Por otro lado, .elemento-2 tiene display: inline-block;, lo que hace que se comporte como un elemento en línea, pero que permita ajustar su ancho y alto como un bloque. En este caso se añadio un width de 100px y un height de 250px, lo que hizo que la caja cambie en un ancho de 100px y un alto de 250.
 
 
-En conclusion: **position** controla el posicionamiento, **z-index** controla el orden de apilamiento y **display** controla cómo se muestra un elemento en una página web.
+En conclusión: **position** controla el posicionamiento, **z-index** controla el orden de apilamiento y **display** controla cómo se muestra un elemento en una página web.
 
 
 
